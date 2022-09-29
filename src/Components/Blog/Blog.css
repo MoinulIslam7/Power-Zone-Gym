@@ -1,0 +1,18 @@
+.blog-body{
+    background-color: black;
+    color: white;
+}
+.blog-container{
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+.blog-container p{
+    text-align: justify;
+}
+.blog-body h2{
+    text-align: center;
+}
+.blog-body h3{
+    text-align: left;
+}

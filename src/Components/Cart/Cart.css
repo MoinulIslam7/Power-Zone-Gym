@@ -1,0 +1,70 @@
+.user-info{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 15px;
+    align-items: center;
+}
+.user-info-details p{
+    margin-left: 5px;
+}
+.icon-location{
+    margin-top: -40px;
+}
+.user-info img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.user-info-details{
+    margin-left: 12px;
+    display: inline;
+    margin-top: -10px;
+}
+.user-info-details p{
+    margin-top: -20px;
+}
+.user-details{
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 0 20px;
+    border-radius: 10px;
+}
+.btn-container{
+    height: 60px;
+    margin: 20px;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+.btn{
+    padding: 10px;
+    color:white;
+    background-color:blue;
+    margin-left: 18px;
+    border-radius: 45%;
+    margin-top: 12px;
+}
+.btn:hover{
+    background-color: orange;
+}
+.exercise-time, .break-time{
+    background-color: lightblue;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.activity-btn{
+    width: 90%;
+    background:blue;
+    color: white;
+    height: 40px;
+    border-radius: 25px;
+    margin: 20px 20px;
+}
+.activity-btn:hover{
+    background-color: orange;
+}
+h3{
+    margin-left: 20px;
+}
